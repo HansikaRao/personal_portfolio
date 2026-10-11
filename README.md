@@ -1,11 +1,11 @@
-# Battu Rishitha — Interactive Portfolio v2
+# Hansika Rao — Interactive Portfolio v2
 
 A responsive portfolio website for Full Stack Development Assignment-1.
 
-**Student:** BATTU RISHITHA  
-**Roll No.:** 160623733070  
+**Student:** Hansika Rao 
+**Roll No.:** 160623733168  
 **Semester:** 7th Semester  
-**Section:** CSE-B
+**Section:** CSE-C
 
 ## Technologies
 HTML5, CSS3, Bootstrap 5, JavaScript ES6+
